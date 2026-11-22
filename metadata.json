@@ -1,0 +1,6 @@
+{
+  "name": "GrainLedger ERP — Agricultural Merchandising Accounting",
+  "description": "Interactive UI/UX prototype transitioning the Merchandising ERP accounting system into an Agricultural Grain Elevator & Agronomic Input Merchandising ERP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
